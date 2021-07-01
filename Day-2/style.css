@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.para{
+    font-size: 34px;
+    background-color: grey;
+    padding: 10px;
+    margin: 16px;
+    text-align:justify;
+    border: 6px solid #244D57;
+}
+#para3{
+    color: khaki;
+}
+span{
+    color: red;
+    text-decoration: underline;
+}
+h1{
+    font-weight: 500;
+}
